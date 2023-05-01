@@ -375,7 +375,7 @@ const Featured = () => {
           <h3 className="project-title">Présentation de mes Réalisations Professionnelles</h3>
 
           <a
-            href="/pdfs/tableau-de-synthèse.pdf"
+            href="/pdfs/tableau-de-synthese.pdf"
             aria-label="Tableau de synthèse"
             className="more-button">
             Tableau de synthèse
