@@ -15,7 +15,7 @@ const StyledProjectsSection = styled.section`
   align-items: center;
   padding: 0px;
   margin: 50px;
-  
+
   .project-title {
     text-align: center;
   }
@@ -371,11 +371,13 @@ const Featured = () => {
       </h2>
 
       <StyledProjectsGrid>
-
         <StyledProjectsSection>
           <h3 className="project-title">Présentation de mes Réalisations Professionnelles</h3>
 
-          <a href='/Tableau-de-synthèse.pdf' aria-label="Tableau de synthèse" className="more-button">
+          <a
+            href="/pdfs/Tableau-de-synthèse.pdf"
+            aria-label="Tableau de synthèse"
+            className="more-button">
             Tableau de synthèse
           </a>
         </StyledProjectsSection>
