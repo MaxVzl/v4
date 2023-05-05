@@ -5,7 +5,7 @@ date: 2022-09-04
 draft: false
 slug: /techwatch
 tags:
-  - Organiser son développement professionnel
+  - 1.6 Organiser son développement professionnel
 ---
 
 Durant mes deux années de BTS j'ai approfondi ma veille technologie à travers différents sujets. J'ai donc utilisé plusieurs outils pour me permettre de m'organiser dans mes recherches.

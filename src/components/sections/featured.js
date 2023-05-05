@@ -412,8 +412,13 @@ const Featured = () => {
                     )}
 
                     <div className="project-links">
-                      {cta && (
+                      {/* {cta && (
                         <a href={cta} aria-label="Course Link" className="cta">
+                          Voir plus
+                        </a>
+                      )} */}
+                      {cta && (
+                        <a href={'/pensieve'} aria-label="Course Link" className="cta">
                           Voir plus
                         </a>
                       )}
