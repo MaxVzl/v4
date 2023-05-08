@@ -8,15 +8,15 @@ tags:
   - 1.6 Organiser son développement professionnel
 ---
 
-Durant mes deux années de BTS j'ai approfondi ma veille technologie à travers différents sujets. J'ai donc utilisé plusieurs outils pour me permettre de m'organiser dans mes recherches.
+Pendant mes deux années de BTS, j'ai approfondi ma veille technologique à travers différents sujets. J'ai donc utilisé plusieurs outils pour m'organiser dans mes recherches.
 
 ### Mes outils
 
 1. [Feedly](https://feedly.com/) est un agrégateur de flux RSS qui permet de suivre les actualités de différents sites web et blogs en un seul endroit. Cela me permet d'ajouter facilement des sources d'information pertinentes sur différents sujets pour recevoir des mises à jour régulières.
 2. [Daly.dev](https://daily.dev/), quant à lui, est une plateforme de veille technologique qui propose des newsletters et des briefings quotidiens sur les dernières tendances en matière de développement et de technologies. Je me suis abonné à leur newsletter pour recevoir des mises à jour régulières sur plusieurs sujets.
-3. Je suis aussi quelque compte [Twitter](https://twitter.com/) pour m'informer.
+3. e suis aussi quelques comptes [Twitter](https://twitter.com/) pour m'informer.
 
-### Sur un tas de sujets différents ma veille c'est principalement faite sur le sujet du [no-code](https://quels-outils-nocode.fr/)
+### Sur un tas de sujets différents, ma veille s'est principalement portée sur le sujet du [no-code](https://quels-outils-nocode.fr/)
 
 # No code
 
@@ -36,36 +36,31 @@ Il existe de plus en plus d'outils permettant de développer des services inform
 
 L'avantage du no-code est que les utilisateurs peuvent se concentrer sur la création d'une application sans avoir à se soucier des aspects techniques de la programmation, ce qui réduit considérablement le temps et les ressources nécessaires pour développer une application.
 
-En outre, les applications no-code sont souvent plus rapides à développer et moins coûteuses à déployer que les applications traditionnelles, ce qui en fait une option attrayante pour les petites entreprises et les entrepreneurs.
+De plus, les applications no-code sont souvent plus rapides à développer et moins coûteuses à déployer que les applications traditionnelles, ce qui en fait une option attrayante pour les petites entreprises et les entrepreneurs.
 
-## 4. Mes sources en lien avec le no-code
+## 4. Mes sources en lien avec le no-code.
 
 1. Les sites nocodestation.substack.com et nocodenews.dev sont des newsletters qui offrent des mises à jour régulières sur les dernières tendances et les nouveaux outils dans le domaine du no-code. Ils peuvent être utiles pour rester informé des développements les plus récents.
 
 #### Article (WeWeb prépare son “AI Copilot”)
 
-Ils l’ont annoncé déjà depuis quelques semaines et ont déjà présenté les possibilités, mais WeWeb a pris très sérieusement le sujet de l’IA à son compte.
-L’objectif est simple : de permettre de créer le front de tes webapps encore plus rapidement grâce à l’IA.
-Bien évidemment, tout cela va se faire via les fameux prompts !
-Le dernier point en date que je regarde attentivement, c’est la possibilité de transférer un fichier Figma directement depuis WeWeb.
-La démo est ci-dessus.
-Pour l’instant, c’est en bêta, mais cette fonctionnalité est nécessairement très attendue de la part de la communauté no-code.
+Ils l'ont annoncé il y a quelques semaines et ont déjà présenté les possibilités, mais WeWeb a sérieusement pris en compte le sujet de l'IA. L'objectif est simple : permettre de créer encore plus rapidement le front-end de tes webapps grâce à l'IA. Tout cela va bien évidemment se faire via les fameux prompts ! Le dernier point que j'observe attentivement est la possibilité de transférer un fichier Figma directement depuis WeWeb. La démo est présentée ci-dessus. Pour l'instant, cette fonctionnalité est en bêta, mais elle est très attendue de la part de la communauté no-code.
 ![weweb](./pictures/weweb.png)
 
-2. La chaîne Youtube "Shubham SHARMA" propose des tutoriels et des vidéos pratiques sur le no-code, qui peuvent vous aider à mieux comprendre comment utiliser les outils de développement no-code.
+2. La chaîne YouTube "Shubham SHARMA" propose des tutoriels et des vidéos pratiques sur le no-code, qui peuvent vous aider à mieux comprendre comment utiliser les outils de développement no-code.
 
 #### Article (Les 5 meilleurs outils pour créer une App mobile (SANS CODER))
 
 Lien : https://www.youtube.com/watch?v=qBuH7XOpfKw
 
-Comment créer une application mobile sans coder (en NoCode) ? On s'est déjà posé cette question et très vite le choix de l'outil arrive. Est-ce qu'on prend un outil NoCode ou LowCode ? Combien cela va coûter ? Quelles seront les limites ? Est-ce que je fais uniquement mon #mvp ou toute mon application en NoCode.
+Comment créer une application mobile sans coder en no-code ? On s'est déjà posé cette question et très vite, le choix de l'outil arrive. Est-ce qu'on prend un outil no-code ou low-code ? Combien cela va coûter ? Quelles seront les limites ? Est-ce que je fais uniquement mon MVP ou toute mon application en no-code ?
 ![shubham-sharma](./pictures/shubham-sharma.png)
 
 3. Les articles sur Product Hunt offrent des présentations de nouveaux produits et services dans le domaine du no-code, tels que Bravo Studio, NoCode Chrome Extensions Builder, et FireAPIs. Ces articles peuvent vous donner une idée des nouvelles applications et des nouvelles fonctionnalités qui sont en cours de développement.
 
-Enfin, Softr, une autre plateforme no-code, a récemment inauguré la No-Code House, un espace de travail partagé dédié aux créateurs no-code. La No-Code House offre un lieu de travail collaboratif pour les créateurs no-code, ainsi qu'un programme de formation et de mentorat pour aider les utilisateurs à développer leurs compétences no-code et à lancer leurs propres projets.
+Enfin, Softr, une autre plateforme no-code, a récemment inauguré la no-code House, un espace de travail partagé dédié aux créateurs no-codes. La no-code House offre un lieu de travail collaboratif pour les créateurs no-codes, ainsi qu'un programme de formation et de mentorat pour aider les utilisateurs à développer leurs compétences no-code et à lancer leurs propres projets.
 
-Glide, quant à lui, a récemment lancé un programme de formation au format bootcamp pour aider les personnes intéressées par le no-code à acquérir les compétences nécessaires pour devenir des développeurs no-code professionnels. Le programme couvre des sujets tels que la conception de produits, la logique de programmation, la gestion de bases de données et le développement d'applications mobiles.
+Glide, quant à lui, a récemment lancé un programme de formation au format Boot camp pour aider les personnes intéressées par le no-code à acquérir les compétences nécessaires pour devenir des développeurs no-code professionnel. Le programme couvre des sujets tels que la conception de produits, la logique de programmation, la gestion de bases de données et le développement d'applications mobiles.
 
 ## 5. Exemple de logiciel que j'ai pu utiliser
 
