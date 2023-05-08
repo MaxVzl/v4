@@ -1,9 +1,9 @@
 ---
 date: '3'
-title: 'Ausonne'
-cover: './ausonne.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Aussonne'
+cover: './aussonne.png'
+external: '/aussonne'
+cta: '/aussonne'
 tech:
   - VS Code
   - PHP

@@ -3,7 +3,7 @@ date: '2'
 title: 'Kaliemie'
 cover: './kaliemie.png'
 github: 'https://github.com/Mojmilo/liemie_app'
-external: 'https://github.com/Mojmilo/liemie_app'
+external: '/kaliemie'
 tech:
   - Android Studio
   - Xcode
