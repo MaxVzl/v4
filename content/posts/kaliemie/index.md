@@ -1,7 +1,7 @@
 ---
 title: Kaliemie
 description: Projet Kaliemie
-date: 2022-09-04
+date: 2023-01-01
 draft: false
 slug: /kaliemie
 tags:
@@ -9,30 +9,30 @@ tags:
   - 1.5 Mettre à disposition des utilisateurs un service informatique
 ---
 
-Application mobile multiplateforme fonctionnant sur Android et IOS pour la gestion des visites de chaques infirmières avec les soins de leurs patients. Système de login avec ajout et modification des visites et des soins. Visualisation de chaques patient sur une carte. Enregistrement des informations dans une base de donénes SQLite.
+Application mobile multiplateforme fonctionnant sur Android et iOS pour la gestion des visites de chaque infirmière avec les soins de leurs patients. Système de login avec ajout et modification des visites et des soins. Visualisation de chaque patient sur une carte. Enregistrement des informations dans une base de données SQLite.
 
 - `Flutter dart` pour l'application mobile
-- Accessibilité multiplateforme `Android` et `IOS`
+- Accessibilité multiplateforme `Android` et `iOS`
 
 ![visite page](./pictures/visite.png)
 
 #### Récapitulatif :
 
-1. Système d'autentification pour se connecter.
+1. Système d'authentification pour se connecter.
 2. Système d'import pour récupérer toutes les visites et soins.
 3. Gestion des visites (modification).
-4. Gestion des soins (ajout, modifiaction, suppression) et etat des soins (réalisé ou non).
+4. Gestion des soins (ajout, modification, suppression) et état des soins (réalisé ou non).
 
-## 1.5 : Mise à disposition d'un site internet
+## 1.5 : Mise à disposition d'une application mobile
 
-Ce site a été mis en place pour permettre de gérer les club sportif de la maire Aussonne en ligne.
+Cette application a été mise en place pour permettre de gérer les clubs sportifs de la mairie d'Aussonne en ligne.
 
-## 1.2 : Incident et demandes d'assistance
+## 1.2 : Incidents et demandes d'assistance
 
-Durant tout le développement de ce projet j'ai du répondre aux demandes d'évolution et de modification de la part de mon professeur pour pouvoir faire évoluer l'application mobile.
+Durant tout le développement de ce projet, j'ai dû répondre aux demandes d'évolution et de modification de la part de mon professeur pour pouvoir faire évoluer l'application mobile.
 
 ## Outils de versionning
 
-Durant tout le développement de ce projet j'ai mis en place un système de versionning pour pouvoir conserver l'ensemble des fichiers du site chronologiquement avec différentes versions. De plus cela permete à tout le monde d'intervenir aussi sur le projet.
+Durant tout le développement de ce projet, j'ai mis en place un système de versionning pour pouvoir conserver l'ensemble des fichiers de l'application chronologiquement avec différentes versions. De plus, cela permet à tout le monde d'intervenir aussi sur le projet.
 
-Pour ce projet j'ai donc utilisé le logiciel [GitHub](https://github.com/).
+Pour ce projet, j'ai donc utilisé le logiciel [GitHub](https://github.com/).

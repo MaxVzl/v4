@@ -1,38 +1,30 @@
 ---
 title: TP Docker
 description: TP Docker
-date: 2022-09-04
+date: 2023-01-01
 draft: false
 slug: /tp-docker
 tags:
-  - 1.2 Répondre aux incidents et aux demandes d'assistance et d'évolution
+  - 1.1 Gérer le patrimoine informatique
   - 1.5 Mettre à disposition des utilisateurs un service informatique
 ---
 
-Application mobile multiplateforme fonctionnant sur Android et IOS pour la gestion des visites de chaques infirmières avec les soins de leurs patients. Système de login avec ajout et modification des visites et des soins. Visualisation de chaques patient sur une carte. Enregistrement des informations dans une base de donénes SQLite.
+Mise en place de conteneurs [Docker](https://www.docker.com/) avec la création d'images pour plusieurs services. Pour pouvoir avoir plusieurs sites internet sur le même serveur.
 
-- `Flutter dart` pour l'application mobile
-- Accessibilité multiplateforme `Android` et `IOS`
+- Utilisation de `Docker`.
+- Mise en place de conteneurs et d'images.
 
-![visite page](./pictures/visite.png)
+![Page Docker](./pictures/docker.png)
 
 #### Récapitulatif :
 
-1. Système d'autentification pour se connecter.
-2. Système d'import pour récupérer toutes les visites et soins.
-3. Gestion des visites (modification).
-4. Gestion des soins (ajout, modifiaction, suppression) et etat des soins (réalisé ou non).
+1. Création de plusieurs conteneurs pour pouvoir empaqueter plusieurs applications isolées les unes des autres.
+2. Création d'images comme modèles de base à partir desquels les conteneurs ont pu être créés.
 
-## 1.5 : Mise à disposition d'un site internet
+## 1.5 : Mise à disposition de plusieurs sites internet avec Docker
 
-Ce site a été mis en place pour permettre de gérer les club sportif de la maire Aussonne en ligne.
+Durant ce TP, j'ai installé Docker sur une machine virtuelle tournant sous Debian 11 et j'ai mis en place plusieurs conteneurs Docker pour pouvoir faire tourner plusieurs sites internet différents isolés les uns des autres avec des ports différents, par exemple un site en `127.0.0.1:8080`, `127.0.0.1:8081`, `127.0.0.1:8082`, `127.0.0.1:8083`.
 
-## 1.2 : Incident et demandes d'assistance
+## 1.1 : Gestion du patrimoine informatique
 
-Durant tout le développement de ce projet j'ai du répondre aux demandes d'évolution et de modification de la part de mon professeur pour pouvoir faire évoluer l'application mobile.
-
-## Outils de versionning
-
-Durant tout le développement de ce projet j'ai mis en place un système de versionning pour pouvoir conserver l'ensemble des fichiers du site chronologiquement avec différentes versions. De plus cela permete à tout le monde d'intervenir aussi sur le projet.
-
-Pour ce projet j'ai donc utilisé le logiciel [GitHub](https://github.com/).
+Ce TP m'a permis d'avoir une gestion du patrimoine informatique grâce à l'outil Docker pour amélioration de la portabilité avec les conteneurs qui peuvent fonctionner sur n'importe quel système et être isolés dans les différentes applications. De plus, il permet d'automatiser les déploiements sur les différents appareils informatiques.
