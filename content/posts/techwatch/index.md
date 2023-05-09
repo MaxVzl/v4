@@ -13,7 +13,7 @@ Pendant mes deux années de BTS, j'ai approfondi ma veille technologique à trav
 ### Mes outils
 
 1. [Feedly](https://feedly.com/) est un agrégateur de flux RSS qui permet de suivre les actualités de différents sites web et blogs en un seul endroit. Cela me permet d'ajouter facilement des sources d'information pertinentes sur différents sujets pour recevoir des mises à jour régulières.
-2. [Daly.dev](https://daily.dev/), quant à lui, est une plateforme de veille technologique qui propose des newsletters et des briefings quotidiens sur les dernières tendances en matière de développement et de technologies. Je me suis abonné à leur newsletter pour recevoir des mises à jour régulières sur plusieurs sujets.
+2. [Daily.dev](https://daily.dev/), quant à lui, est une plateforme de veille technologique qui propose des newsletters et des briefings quotidiens sur les dernières tendances en matière de développement et de technologies. Je me suis abonné à leur newsletter pour recevoir des mises à jour régulières sur plusieurs sujets.
 3. je suis aussi quelques comptes [Twitter](https://twitter.com/) pour m'informer.
 
 ### Sur un tas de sujets différents, ma veille s'est principalement portée sur le sujet du [no-code](https://quels-outils-nocode.fr/)
