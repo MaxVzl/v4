@@ -49,7 +49,7 @@ Pour ce projet, j'ai donc utilisé le logiciel [GitHub](https://github.com/).
 
 Durant toute la conception et le développement de ce site web, j'ai été amené à discuter plusieurs fois avec les clients sur différentes évolutions du site. J'ai été amené à mettre plusieurs fois à jour le site directement sur le serveur hébergé par OVH. Je suis parti de plusieurs tableaux Excel comme données de départ pour pouvoir les insérer et les rendre compatibles avec le site.
 
-## Resources
+## Ressources
 
 - <https://symfony.com//>
 - <https://fr.legacy.reactjs.org//>
