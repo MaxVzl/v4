@@ -17,7 +17,7 @@ Site web e-commerce [Toopiko](https://toopiko.fr/) spécialisé dans la vente de
 
 1. Création des pages légales du site.
 
-## 1.3 Développement de la prsence en ligne aux niveau légal
+## 1.3 Développement de la présence en ligne aux niveau légal
 
 J'ai commencé à travailler sur ce projet en entreprise, plus particulièrement sur la mise en place des pages légales du site web. Ce site est un site e-commerce destiné à tout le monde et doit obligatoirement comprendre ces pages. J'ai commencé à mettre en place ces pages.
 
