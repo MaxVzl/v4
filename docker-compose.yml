@@ -1,0 +1,27 @@
+version: '3.5'
+
+services:
+  portfolio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: portfolio:0.1.0
+    container_name: portfolio
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.portfolio.rule=Host(`maxvzl.com`)
+      - traefik.http.routers.portfolio.entrypoints=websecure
+      - traefik.http.routers.portfolio.tls=true
+      - traefik.http.routers.portfolio.tls.certresolver=lets-encrypt
+    networks:
+      - web
+
+networks:
+  web:
+    external: true
+    driver: bridge
