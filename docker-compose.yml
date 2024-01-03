@@ -14,7 +14,7 @@ services:
       - /app/node_modules
     labels:
       - traefik.enable=true
-      - traefik.http.routers.portfolio.rule=Host(`maxvzl.com`)
+      - traefik.http.routers.portfolio.rule=Host(`maxvzl.com`) || Host(`www.maxvzl.com`)
       - traefik.http.routers.portfolio.entrypoints=websecure
       - traefik.http.routers.portfolio.tls=true
       - traefik.http.routers.portfolio.tls.certresolver=lets-encrypt
